@@ -2,3 +2,4 @@ Funcionar
 Ter banco de dados
 Emprestar livros
 Vender livros
+Renovar empréstimo
